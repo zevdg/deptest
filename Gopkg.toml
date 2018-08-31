@@ -30,7 +30,7 @@
   version = "1.0.0"
 
 [[constraint]]
-  name = "github.com/zevdg/deptest-secret-sauce"
+  name = "github.com/zevdg/deptest-oss-sauce"
   version = "1.0.0"
 
 [prune]
