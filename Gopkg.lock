@@ -8,14 +8,14 @@
   version = "v1.0.0"
 
 [[projects]]
-  name = "github.com/zevdg/deptest-secret-sauce"
+  name = "github.com/zevdg/deptest-oss-sauce"
   packages = ["."]
-  revision = "3015f17450b4c0eb0ac4e43f5bf376b6473349e7"
+  revision = "a6ebc2fc6b42690a39875f9bb161d5d1153a6289"
   version = "v1.0.0"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "2526011333c2afae3c07638c883612518f25396236635167a9e5d1624ca9b46e"
+  inputs-digest = "981043f01858acb419be4e8c24dcb107126ae80072c1eb8dcf3b1b818bbd4371"
   solver-name = "gps-cdcl"
   solver-version = 1
